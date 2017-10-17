@@ -17,6 +17,6 @@ Mevcut Tasarım Desenleri kategorileri ve yazıları aşağıdadır.
 
 **1. Projeyi Forklayın:** Başkasına ait reponun bir kopyasını kendi reponuza eklersiniz. <br>
 **2. Commit:** Yapmış olduğunuz değişiklikleri kendi reponuza aktarırsınız. <br>
-**3. Pull Request PR:** Kendi reponuzda yapılan değişiklikleri ana repo ya aktarma isteğinde bulursunuz. <br>
+**3. Pull Request PR:** Kendi reponuzda yapılan değişiklikleri ana repoya aktarma isteğinde bulursunuz. <br>
 
 #### Not: Taslağa uygun şekilde değişiklik yapmaya dikkat ediniz.
