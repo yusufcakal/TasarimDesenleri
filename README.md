@@ -2,13 +2,17 @@
 
 Mevcut Tasarım Desenleri kategorileri ve yazıları aşağıdadır.
 
-#### Builder(Kurucu) Tasarım Deseni
+#### Kurucu(Builder) Tasarım Deseni
 
 * [Java](https://medium.com/t%C3%BCrkiye/1-builder-kurucu-pattern-5c6b435eb45e)
 
-#### Observer(Gözlemci) Tasarım Deseni
+#### Gözlemci(Observer) Tasarım Deseni
 
 * [Java](https://medium.com/@yusufcakal/observer-g%C3%B6zlemci-pattern-16cbe6d4bfbe)
+
+#### Fabrika(Factory) Tasarım Deseni
+
+* [Java](https://medium.com/@yusufcakal/factory-fabrika-pattern-c14baca707be)
 
 ### Nasıl Katkıda Bulunabilirim?
 
