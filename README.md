@@ -14,6 +14,8 @@ Mevcut Tasarım Desenleri kategorileri ve yazıları aşağıdadır.
 
 * [Java](https://medium.com/@yusufcakal/factory-fabrika-pattern-c14baca707be)
 
+#### ...(Chain of Responsibility) Tasarım Deseni
+
 ### Nasıl Katkıda Bulunabilirim?
 
 >Bir kategori altında birden fazla makale olabilir fakat farklı programlama dilleri ile yazılmış kodlar olmasına dikkat ediniz.
