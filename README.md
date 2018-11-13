@@ -1,4 +1,4 @@
-> Merhaba bu repo tasarım desenlerini öğrenmek isteyen arkadaşlara bu konu da yazılmış makaleler ile buluşturmak için rehber olma ve Türkçe kaynak oluşturma amaçlı hazırlanmıştır. Sizlerde katkıda bulunarak daha fazla kişinin daha fazla tasarım deseni öğrenmesine yardımcı olabilirsiniz.
+> Merhaba, bu repo tasarım desenlerini öğrenmek isteyen arkadaşlara bu konu da yazılmış makaleler ile buluşturmak için rehber olma ve Türkçe kaynak oluşturma amaçlı hazırlanmıştır. Sizlerde katkıda bulunarak daha fazla kişinin daha fazla tasarım deseni öğrenmesine yardımcı olabilirsiniz.
 
 Mevcut Tasarım Desenleri kategorileri ve yazıları aşağıdadır.
 
