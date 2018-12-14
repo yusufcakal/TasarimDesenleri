@@ -18,6 +18,8 @@ Mevcut Tasarım Desenleri kategorileri ve yazıları aşağıdadır.
 
 >Bir kategori altında birden fazla makale olabilir fakat farklı programlama dilleri ile yazılmış kodlar olmasına dikkat ediniz.
 
+#### Chain of Responsibility...
+
 
 **1. Projeyi Forklayın:** Başkasına ait reponun bir kopyasını kendi reponuza eklersiniz. <br>
 **2. Commit:** Yapmış olduğunuz değişiklikleri kendi reponuza aktarırsınız. <br>
