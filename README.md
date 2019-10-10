@@ -14,6 +14,10 @@ Mevcut Tasarım Desenleri kategorileri ve yazıları aşağıdadır.
 
 * [Java](https://medium.com/@yusufcakal/factory-fabrika-pattern-c14baca707be)
 
+#### Proxy Tasarım Deseni
+
+* [Java](https://medium.com/@ibrahimozdogan/proxy-tasar%C4%B1m-deseni-251b4f69a8ab)
+
 ### Nasıl Katkıda Bulunabilirim?
 
 >Bir kategori altında birden fazla makale olabilir fakat farklı programlama dilleri ile yazılmış kodlar olmasına dikkat ediniz.
